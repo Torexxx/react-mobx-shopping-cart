@@ -1,0 +1,14 @@
+.btnNext{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+td {
+    min-width: 100px;
+}
+
+.remove {
+    cursor: pointer
+}
+

@@ -1,0 +1,40 @@
+.personalInfo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    margin: 100px auto;
+}
+
+.input{
+    margin: 5px 0;
+    padding: 10px;
+}
+
+
+.orderForm {
+    display: flex;
+}
+
+
+
+.personalData {
+    border-right: 1px solid #dee2e6;
+    /* padding-right: 100px; */
+    width: 50%;
+    text-align: center;
+}
+
+.orderData {
+    width: 50%;
+    text-align: center;
+}
+
+.total {
+    float: right;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+/*order-form-agree*/

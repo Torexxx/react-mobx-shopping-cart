@@ -1,0 +1,31 @@
+
+
+.products {
+
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: space-evenly;*/
+}
+
+
+.product {
+    border: 2px solid #eeeeee;
+    border-radius: 4px;
+    /*padding: 2rem;*/
+    margin-bottom: 15px;
+    margin-right: 15px;
+    flex-basis: 200px;
+}
+
+.productsHeader {
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 1rem 0;
+}
+
+.minmax{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}

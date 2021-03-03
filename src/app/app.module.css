@@ -1,0 +1,6 @@
+.active{
+    transition: .25s ease-in;
+    /*margin-left: 10px;*/
+    color: red;
+}
+

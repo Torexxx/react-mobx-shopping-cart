@@ -1,0 +1,28 @@
+
+.products {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.product {
+    border: 1px solid #eeeeee;
+    border-radius: 4px;
+    padding: 2rem;
+    margin-bottom: 15px;
+}
+
+.product > div {
+    margin: 10px;
+}
+
+
+
+.productsHeader {
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 1rem 0;
+}
